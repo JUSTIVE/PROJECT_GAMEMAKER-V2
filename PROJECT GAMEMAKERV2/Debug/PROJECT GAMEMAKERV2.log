@@ -1,0 +1,46 @@
+﻿빌드 시작: 11/1/2015 1:49:03 PM
+     1>2 노드의 "C:\Users\HOME\Documents\Visual Studio 2013\Projects\PROJECT GAMEMAKERV2\PROJECT GAMEMAKERV2\PROJECT GAMEMAKERV2.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 313123123.c
+         313123123.c
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(169): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(251): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(503): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(585): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(589): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(592): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(594): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(596): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(640): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(673): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(707): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(565): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(563): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(749): warning C4244: '초기화 중' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(753): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(756): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(759): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(861): warning C4244: '=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(862): warning C4244: '함수' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(865): warning C4244: '+=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(740): warning C4101: 'relative_value' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(1052): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(1386): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(1590): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(1631): warning C4244: '*=' : 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(1685): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(1730): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(1730): warning C4101: 'toy_num' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(1730): warning C4101: 'month_temp' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(1730): warning C4101: 'year_temp' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(1730): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+     1>c:\users\home\documents\visual studio 2013\projects\project gamemakerv2\project gamemakerv2\313123123.c(2053): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\HOME\Documents\Visual Studio 2013\Projects\PROJECT GAMEMAKERV2\Debug\PROJECT GAMEMAKERV2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\HOME\Documents\Visual Studio 2013\Projects\PROJECT GAMEMAKERV2\Debug\PROJECT GAMEMAKERV2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\HOME\Documents\Visual Studio 2013\Projects\PROJECT GAMEMAKERV2\Debug\PROJECT GAMEMAKERV2.lib" /MACHINE:X86 Debug\313123123.obj
+         Debug\anim.obj
+         PROJECT GAMEMAKERV2.vcxproj -> C:\Users\HOME\Documents\Visual Studio 2013\Projects\PROJECT GAMEMAKERV2\Debug\PROJECT GAMEMAKERV2.exe
+     1>"C:\Users\HOME\Documents\Visual Studio 2013\Projects\PROJECT GAMEMAKERV2\PROJECT GAMEMAKERV2\PROJECT GAMEMAKERV2.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.66
